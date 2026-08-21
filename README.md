@@ -140,13 +140,6 @@ Objectif : comprendre les algorithmes de layout de graphes
 
 ---
 
-## Notes
-
-- consignes/ contient les instructions
-- notes/ toutes mes notes personnel
-
----
-
 ## PlantUML
 
 ![plant_uml_pipeline_layout](./diagramme_uml.png)
